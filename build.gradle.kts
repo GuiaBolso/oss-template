@@ -18,7 +18,7 @@ import java.lang.System.getenv
  */
 
 plugins {
-    kotlin("jvm") version "1.4.31"
+    kotlin("jvm") version "1.4.32"
     `maven-publish`
     signing
     id("io.gitlab.arturbosch.detekt") version "1.16.0"
