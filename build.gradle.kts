@@ -21,7 +21,7 @@ plugins {
     kotlin("jvm") version "1.4.31"
     `maven-publish`
     signing
-    id("io.gitlab.arturbosch.detekt") version "1.16.0"
+    id("io.gitlab.arturbosch.detekt") version "1.18.0"
 }
 
 group = "br.com.guiabolso"
